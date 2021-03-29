@@ -1,0 +1,14 @@
+CarouselSlider(
+              height: 180.0,
+              enlargeCenterPage: true,
+              autoPlay: true,
+              aspectRatio: 16 / 9,
+              autoPlayCurve: Curves.fastOutSlowIn,
+              autoPlayAnimationDuration: Duration(milliseconds: 800),
+              viewportFraction: 0.8,
+              items: [
+                Container(
+                  decoration: BoxDecoration(),
+                )
+              ],
+            ),

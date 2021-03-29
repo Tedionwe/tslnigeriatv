@@ -1,7 +1,7 @@
-import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
 import 'package:newapp/colors.dart';
 import 'package:newapp/mediaquery.dart';
+import 'package:newapp/horiscreen/horizontal.dart';
 
 class HomePage extends StatefulWidget {
   @override
@@ -74,20 +74,14 @@ class HomePageState extends State<HomePage> {
       body: Container(
         child: ListView(
           children: <Widget>[
-            CarouselSlider(
-              height: 180.0,
-              enlargeCenterPage: true,
-              autoPlay: true,
-              aspectRatio: 16 / 9,
-              autoPlayCurve: Curves.fastOutSlowIn,
-              autoPlayAnimationDuration: Duration(milliseconds: 800),
-              viewportFraction: 0.8,
-              items: [
-                Container(
-                  decoration: BoxDecoration(),
-                )
-              ],
+            Padding(
+              padding: const EdgeInsets.all(20),
+              child: Text(
+                'My List',
+                style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18.0),
+              ),
             ),
+            MyList(),
           ],
         ),
       ),
