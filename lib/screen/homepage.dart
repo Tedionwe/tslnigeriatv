@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:newapp/colors.dart';
+import 'package:newapp/components/news.dart';
 import 'package:newapp/mediaquery.dart';
 import 'package:newapp/horiscreen/horizontal.dart';
 
@@ -71,18 +72,17 @@ class HomePageState extends State<HomePage> {
           ),
         ],
       ),
-      body: Container(
-        child: ListView(
-          children: <Widget>[
-            Padding(
-              padding: const EdgeInsets.all(20),
-              child: Text(
-                'My List',
-                style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18.0),
-              ),
-            ),
-            MyList(),
-          ],
+      body: SingleChildScrollView(
+        child: Container(
+          child: Column(
+            children: <Widget>[
+              MyList(),
+              SizedBox(height: getResponsiveHeight(20)),
+              News(),
+              News(),
+              News()
+            ],
+          ),
         ),
       ),
     );

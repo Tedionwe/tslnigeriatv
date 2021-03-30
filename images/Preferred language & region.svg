@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="366" height="731" viewBox="0 0 366 731">
+  <defs>
+    <filter id="Rectangle_4" x="-9" y="672" width="384" height="63" filterUnits="userSpaceOnUse">
+      <feOffset dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Preferred_language_region">
+      <rect width="366" height="731"/>
+    </clipPath>
+  </defs>
+  <g id="Preferred_language_region" data-name="Preferred language &amp; region" clip-path="url(#clip-Preferred_language_region)">
+    <rect width="366" height="731" fill="#fff"/>
+    <g id="Group_4" data-name="Group 4" transform="translate(0 4)">
+      <g id="Group_2" data-name="Group 2" transform="translate(387 23)">
+        <text id="_11:09" data-name="11:09" transform="translate(-60 -8)" fill="#5f5f5f" font-size="12" font-family="Helvetica"><tspan x="0" y="0">11:09</tspan></text>
+        <text id="_85_" data-name="85%" transform="translate(-101 -8)" fill="#5f5f5f" font-size="12" font-family="Helvetica"><tspan x="0" y="0">85%</tspan></text>
+        <path id="Shape" d="M8.347,1.8V1H5.674v.8H3V13.477h8.021V1.8Z" transform="translate(-77.818 -20)" fill="#5f5f5f"/>
+        <path id="Shape-2" data-name="Shape" d="M0,13.477H12.477V1Z" transform="translate(-120.121 -20)" fill="#5f5f5f"/>
+        <path id="Shape-3" data-name="Shape" d="M17.042,3.674A13.155,13.155,0,0,0,9.021,1,13.155,13.155,0,0,0,1,3.674l8.021,9.8Z" transform="translate(-140.394 -20)" fill="#5f5f5f"/>
+      </g>
+      <text id="_" data-name=" " transform="translate(15 16)" fill="#5f5f5f" font-size="16" font-family="LastResort, '\.LastResort'"><tspan x="0" y="0"></tspan><tspan y="0" font-family="Helvetica"> </tspan><tspan y="0"></tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_4)">
+      <rect id="Rectangle_4-2" data-name="Rectangle 4" width="366" height="45" transform="translate(0 686)" fill="#fff"/>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(376)">
+      <path id="Recent" d="M43.3,16h7.787a1.3,1.3,0,0,1,1.3,1.3v7.787a1.3,1.3,0,0,1-1.3,1.3H43.3a1.3,1.3,0,0,1-1.3-1.3V17.3A1.3,1.3,0,0,1,43.3,16Z" transform="translate(-138.737 689.113)" fill="none" stroke="#a3a3a3" stroke-width="2"/>
+      <path id="Home" d="M5.317,0A5.317,5.317,0,1,1,0,5.317,5.317,5.317,0,0,1,5.317,0Z" transform="translate(-198.679 705.113)" fill="none" stroke="#a3a3a3" stroke-width="2"/>
+      <path id="Home-2" data-name="Home" d="M8,0A8,8,0,1,1,0,8,8,8,0,0,1,8,0Z" transform="translate(-201.357 702.435)" fill="none" stroke="#a3a3a3" stroke-width="0.5"/>
+      <path id="Back" d="M51.776,15.112c.659-.4,1.12-.066,1.12.659V25.32c0,.724-.527,1.054-1.12.659l-8.232-4.808c-.659-.4-.659-.922,0-1.317Z" transform="translate(-342.735 689.557)" fill="none" stroke="#a3a3a3" stroke-width="2"/>
+    </g>
+    <text id="Preferred_language_region-2" data-name="Preferred language &amp; region" transform="translate(58 67)" font-size="16" font-family="Helvetica"><tspan x="0" y="0">Preferred language &amp; region</tspan></text>
+    <text id="English_Nigeria_" data-name="English (Nigeria)" transform="translate(53 270)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">English (Nigeria)</tspan></text>
+    <text id="English_United_States_" data-name="English (United States)" transform="translate(53 299)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">English (United States)</tspan></text>
+    <text id="Select_the_language_and_region_for_the_news_you_want_to_see" data-name="Select the language and region for the news you
+want to see" transform="translate(58 93)" fill="#5f5f5f" font-size="11" font-family="Helvetica"><tspan x="0" y="0">Select the language and region for the news you</tspan><tspan x="0" y="13">want to see</tspan></text>
+    <text id="Suggested" transform="translate(15 236)" fill="#0bce86" font-size="10" font-family="Helvetica"><tspan x="0" y="0">Suggested</tspan></text>
+    <text id="All_languages_and_regions" data-name="All languages and regions" transform="translate(15 345)" fill="#0bce86" font-size="10" font-family="Helvetica"><tspan x="0" y="0">All languages and regions</tspan></text>
+    <g id="back-2" data-name="back" transform="translate(15 14.326)">
+      <g id="Group_1291" data-name="Group 1291" transform="translate(0 41.674)">
+        <path id="Path_3410" data-name="Path 3410" d="M12.288,46.06l.02,0H3.6L6.335,43.32a.719.719,0,0,0,0-1.011l-.426-.426a.713.713,0,0,0-1.006,0L.207,46.576a.718.718,0,0,0,0,1.01L4.9,52.281a.714.714,0,0,0,1.006,0l.426-.426a.705.705,0,0,0,.208-.5.684.684,0,0,0-.208-.494L3.565,48.1H12.3a.738.738,0,0,0,.722-.73v-.6A.724.724,0,0,0,12.288,46.06Z" transform="translate(0 -41.674)" fill="#a3a3a3"/>
+      </g>
+    </g>
+    <line id="Line_136" data-name="Line 136" x2="325" transform="translate(15.5 129.5)" fill="none" stroke="rgba(112,112,112,0.17)" stroke-width="1"/>
+    <g id="Rectangle_455" data-name="Rectangle 455" transform="translate(16 155)" fill="#fff" stroke="#b7b7b7" stroke-width="0.5">
+      <rect width="325" height="38" rx="19" stroke="none"/>
+      <rect x="0.25" y="0.25" width="324.5" height="37.5" rx="18.75" fill="none"/>
+    </g>
+    <g id="musica-searcher" transform="translate(32.671 167)">
+      <path id="Path_3411" data-name="Path 3411" d="M14.633,12.86,11.374,9.6c-.017-.017-.038-.029-.056-.046a6.169,6.169,0,1,0-1.763,1.762c.016.018.028.038.045.056l3.259,3.259a1.254,1.254,0,0,0,1.773-1.773ZM6.167,10.2A4.029,4.029,0,1,1,10.2,6.167,4.029,4.029,0,0,1,6.167,10.2Z" fill="#717171" fill-rule="evenodd"/>
+    </g>
+    <text id="Search_for_language_or_region" data-name="Search for language or region" transform="translate(58 178)" fill="#a2a2a2" font-size="11" font-family="Helvetica"><tspan x="0" y="0">Search for language or region</tspan></text>
+    <g id="Group_1293" data-name="Group 1293" transform="translate(0 -0.329)">
+      <circle id="Radiobutton" cx="6.671" cy="6.671" r="6.671" transform="translate(19.329 259.329)" fill="none" stroke="#0bce86" stroke-width="1"/>
+      <circle id="Dot" cx="4.335" cy="4.335" r="4.335" transform="translate(21.665 261.665)" fill="#0bce86"/>
+    </g>
+    <circle id="Radiobutton-2" data-name="Radiobutton" cx="6.671" cy="6.671" r="6.671" transform="translate(19.329 288)" fill="none" stroke="#a2a2a2" stroke-width="1"/>
+    <path id="Icon" d="M16.6,8.6,12,13.2,7.4,8.6,6,10l6,6,6-6Z" transform="translate(312 329.4)" opacity="0.54"/>
+  </g>
+</svg>

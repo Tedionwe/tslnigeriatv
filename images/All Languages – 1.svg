@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="366" height="731" viewBox="0 0 366 731">
+  <defs>
+    <filter id="Rectangle_4" x="-9" y="672" width="384" height="63" filterUnits="userSpaceOnUse">
+      <feOffset dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Base" x="-15" y="438.267" width="396" height="257.733" filterUnits="userSpaceOnUse">
+      <feOffset dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.141"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Button_bg" x="313.717" y="636.7" width="45.6" height="45.6" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-3"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Button_bg-2" x="313.467" y="637.45" width="46.1" height="46.1" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-4"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-All_Languages_1">
+      <rect width="366" height="731"/>
+    </clipPath>
+  </defs>
+  <g id="All_Languages_1" data-name="All Languages – 1" clip-path="url(#clip-All_Languages_1)">
+    <rect width="366" height="731" fill="#fff"/>
+    <circle id="Radiobutton" cx="6.671" cy="6.671" r="6.671" transform="translate(19.329 547)" fill="none" stroke="#a2a2a2" stroke-width="1"/>
+    <text id="English_Ethiopia_" data-name="English (Ethiopia)" transform="translate(53 558)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">English (Ethiopia)</tspan></text>
+    <g id="Group_4" data-name="Group 4" transform="translate(0 4)">
+      <g id="Group_2" data-name="Group 2" transform="translate(387 23)">
+        <text id="_11:09" data-name="11:09" transform="translate(-60 -8)" fill="#5f5f5f" font-size="12" font-family="Helvetica"><tspan x="0" y="0">11:09</tspan></text>
+        <text id="_85_" data-name="85%" transform="translate(-101 -8)" fill="#5f5f5f" font-size="12" font-family="Helvetica"><tspan x="0" y="0">85%</tspan></text>
+        <path id="Shape" d="M8.347,1.8V1H5.674v.8H3V13.477h8.021V1.8Z" transform="translate(-77.818 -20)" fill="#5f5f5f"/>
+        <path id="Shape-2" data-name="Shape" d="M0,13.477H12.477V1Z" transform="translate(-120.121 -20)" fill="#5f5f5f"/>
+        <path id="Shape-3" data-name="Shape" d="M17.042,3.674A13.155,13.155,0,0,0,9.021,1,13.155,13.155,0,0,0,1,3.674l8.021,9.8Z" transform="translate(-140.394 -20)" fill="#5f5f5f"/>
+      </g>
+      <text id="_" data-name=" " transform="translate(15 16)" fill="#5f5f5f" font-size="16" font-family="LastResort, '\.LastResort'"><tspan x="0" y="0"></tspan><tspan y="0" font-family="Helvetica"> </tspan><tspan y="0"></tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_4)">
+      <rect id="Rectangle_4-2" data-name="Rectangle 4" width="366" height="45" transform="translate(0 686)" fill="#fff"/>
+    </g>
+    <path id="Recent" d="M43.3,16h7.787a1.3,1.3,0,0,1,1.3,1.3v7.787a1.3,1.3,0,0,1-1.3,1.3H43.3a1.3,1.3,0,0,1-1.3-1.3V17.3A1.3,1.3,0,0,1,43.3,16Z" transform="translate(237.263 689.113)" fill="none" stroke="#a3a3a3" stroke-width="2"/>
+    <path id="Home" d="M5.317,0A5.317,5.317,0,1,1,0,5.317,5.317,5.317,0,0,1,5.317,0Z" transform="translate(177.321 705.113)" fill="none" stroke="#a3a3a3" stroke-width="2"/>
+    <path id="Home-2" data-name="Home" d="M8,0A8,8,0,1,1,0,8,8,8,0,0,1,8,0Z" transform="translate(174.643 702.435)" fill="none" stroke="#a3a3a3" stroke-width="0.5"/>
+    <path id="Back" d="M51.776,15.112c.659-.4,1.12-.066,1.12.659V25.32c0,.724-.527,1.054-1.12.659l-8.232-4.808c-.659-.4-.659-.922,0-1.317Z" transform="translate(60.692 758.075) rotate(-90)" fill="none" stroke="#a3a3a3" stroke-width="2"/>
+    <text id="Preferred_language_region" data-name="Preferred language &amp; region" transform="translate(58 67)" font-size="16" font-family="Helvetica"><tspan x="0" y="0">Preferred language &amp; region</tspan></text>
+    <text id="English_Albania_" data-name="English (Albania)" transform="translate(53 244)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">English (Albania)</tspan></text>
+    <text id="English_Antigua_Barbuda_" data-name="English (Antigua &amp; Barbuda)" transform="translate(53 273)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">English (Antigua &amp; Barbuda)</tspan></text>
+    <text id="English_Australia_" data-name="English (Australia)" transform="translate(53 302)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">English (Australia)</tspan></text>
+    <text id="English_Bahrain_" data-name="English (Bahrain)" transform="translate(53 331)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">English (Bahrain)</tspan></text>
+    <text id="English_Bangladesh_" data-name="English (Bangladesh)" transform="translate(53 360)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">English (Bangladesh)</tspan></text>
+    <text id="English_Belize_" data-name="English (Belize)" transform="translate(53 389)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">English (Belize)</tspan></text>
+    <text id="English_Bosnia_Herzegovina_" data-name="English (Bosnia &amp; Herzegovina)" transform="translate(53 418)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">English (Bosnia &amp; Herzegovina)</tspan></text>
+    <text id="English_Botswana_" data-name="English (Botswana)" transform="translate(53 447)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">English (Botswana)</tspan></text>
+    <text id="English_Cambodia_" data-name="English (Cambodia)" transform="translate(53 476)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">English (Cambodia)</tspan></text>
+    <text id="English_Canada_" data-name="English (Canada)" transform="translate(53 505)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">English (Canada)</tspan></text>
+    <text id="English_Estonia_" data-name="English (Estonia)" transform="translate(53 534)" font-size="11" font-family="Helvetica"><tspan x="0" y="0">English (Estonia)</tspan></text>
+    <text id="Select_the_language_and_region_for_the_news_you_want_to_see" data-name="Select the language and region for the news you
+want to see" transform="translate(58 93)" fill="#5f5f5f" font-size="11" font-family="Helvetica"><tspan x="0" y="0">Select the language and region for the news you</tspan><tspan x="0" y="13">want to see</tspan></text>
+    <g id="back-2" data-name="back" transform="translate(15 14.326)">
+      <g id="Group_1291" data-name="Group 1291" transform="translate(0 41.674)">
+        <path id="Path_3410" data-name="Path 3410" d="M12.288,46.06l.02,0H3.6L6.335,43.32a.719.719,0,0,0,0-1.011l-.426-.426a.713.713,0,0,0-1.006,0L.207,46.576a.718.718,0,0,0,0,1.01L4.9,52.281a.714.714,0,0,0,1.006,0l.426-.426a.705.705,0,0,0,.208-.5.684.684,0,0,0-.208-.494L3.565,48.1H12.3a.738.738,0,0,0,.722-.73v-.6A.724.724,0,0,0,12.288,46.06Z" transform="translate(0 -41.674)" fill="#a3a3a3"/>
+      </g>
+    </g>
+    <line id="Line_136" data-name="Line 136" x2="325" transform="translate(15.5 129.5)" fill="none" stroke="rgba(112,112,112,0.17)" stroke-width="1"/>
+    <g id="Rectangle_455" data-name="Rectangle 455" transform="translate(16 155)" fill="#fff" stroke="#b7b7b7" stroke-width="0.5">
+      <rect width="325" height="38" rx="19" stroke="none"/>
+      <rect x="0.25" y="0.25" width="324.5" height="37.5" rx="18.75" fill="none"/>
+    </g>
+    <g id="musica-searcher" transform="translate(32.671 167)">
+      <path id="Path_3411" data-name="Path 3411" d="M14.633,12.86,11.374,9.6c-.017-.017-.038-.029-.056-.046a6.169,6.169,0,1,0-1.763,1.762c.016.018.028.038.045.056l3.259,3.259a1.254,1.254,0,0,0,1.773-1.773ZM6.167,10.2A4.029,4.029,0,1,1,10.2,6.167,4.029,4.029,0,0,1,6.167,10.2Z" fill="#717171" fill-rule="evenodd"/>
+    </g>
+    <text id="Search_for_language_or_region" data-name="Search for language or region" transform="translate(58 178)" fill="#a2a2a2" font-size="11" font-family="Helvetica"><tspan x="0" y="0">Search for language or region</tspan></text>
+    <circle id="Radiobutton-2" data-name="Radiobutton" cx="6.671" cy="6.671" r="6.671" transform="translate(19.329 233)" fill="none" stroke="#a2a2a2" stroke-width="1"/>
+    <circle id="Radiobutton-3" data-name="Radiobutton" cx="6.671" cy="6.671" r="6.671" transform="translate(19.329 262)" fill="none" stroke="#a2a2a2" stroke-width="1"/>
+    <circle id="Radiobutton-4" data-name="Radiobutton" cx="6.671" cy="6.671" r="6.671" transform="translate(19.329 291)" fill="none" stroke="#a2a2a2" stroke-width="1"/>
+    <circle id="Radiobutton-5" data-name="Radiobutton" cx="6.671" cy="6.671" r="6.671" transform="translate(19.329 320)" fill="none" stroke="#a2a2a2" stroke-width="1"/>
+    <circle id="Radiobutton-6" data-name="Radiobutton" cx="6.671" cy="6.671" r="6.671" transform="translate(19.329 349)" fill="none" stroke="#a2a2a2" stroke-width="1"/>
+    <circle id="Radiobutton-7" data-name="Radiobutton" cx="6.671" cy="6.671" r="6.671" transform="translate(19.329 378)" fill="none" stroke="#a2a2a2" stroke-width="1"/>
+    <circle id="Radiobutton-8" data-name="Radiobutton" cx="6.671" cy="6.671" r="6.671" transform="translate(19.329 407)" fill="none" stroke="#a2a2a2" stroke-width="1"/>
+    <circle id="Radiobutton-9" data-name="Radiobutton" cx="6.671" cy="6.671" r="6.671" transform="translate(19.329 436)" fill="none" stroke="#a2a2a2" stroke-width="1"/>
+    <circle id="Radiobutton-10" data-name="Radiobutton" cx="6.671" cy="6.671" r="6.671" transform="translate(19.329 465)" fill="none" stroke="#a2a2a2" stroke-width="1"/>
+    <circle id="Radiobutton-11" data-name="Radiobutton" cx="6.671" cy="6.671" r="6.671" transform="translate(19.329 494)" fill="none" stroke="#a2a2a2" stroke-width="1"/>
+    <circle id="Radiobutton-12" data-name="Radiobutton" cx="6.671" cy="6.671" r="6.671" transform="translate(19.329 523)" fill="none" stroke="#a2a2a2" stroke-width="1"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Base)">
+      <rect id="Base-2" data-name="Base" width="366" height="227.733" transform="translate(0 458.27)" fill="#eceff0"/>
+    </g>
+    <g id="Group_1294" data-name="Group 1294" transform="translate(0 2)">
+      <g id="Group_1158" data-name="Group 1158" transform="translate(14.994 487.717)">
+        <path id="Space" d="M259.5,205.367a2.039,2.039,0,0,1-2.033,2.033H109.033A2.039,2.039,0,0,1,107,205.367V185.033A2.039,2.039,0,0,1,109.033,183H257.467a2.039,2.039,0,0,1,2.033,2.033v20.333Z" transform="translate(-13.21 -24.4)" fill="#37474f" opacity="0.15"/>
+        <text id="_2" data-name="," transform="translate(59.816 176.567)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">,</tspan></text>
+        <text id="_12" data-name="?12" transform="translate(2.859 176.683)" fill="#37474f" font-size="14" font-family="Helvetica"><tspan x="0" y="0">?12</tspan></text>
+        <text id="_3" data-name="3" transform="translate(27.18 176.683)" fill="#37474f" font-size="14" font-family="Helvetica"><tspan x="0" y="0">3</tspan></text>
+        <text id="_." data-name="." transform="translate(274.683 176.567)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">.</tspan></text>
+        <g id="Search" transform="translate(303.223 151.483)">
+          <g transform="matrix(1, 0, 0, 1, -318.22, -641.2)" filter="url(#Button_bg)">
+            <circle id="Button_bg-3" data-name="Button bg" cx="18.3" cy="18.3" r="18.3" transform="translate(318.22 641.2)" fill="#4db6ac"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -318.22, -641.2)" filter="url(#Button_bg-2)">
+            <circle id="Button_bg-4" data-name="Button bg" cx="18.3" cy="18.3" r="18.3" transform="translate(318.22 641.2)" fill="#4db6ac" stroke="rgba(255,255,255,0.12)" stroke-width="0.5"/>
+          </g>
+          <path id="Icon" d="M22.008,20.483h-.813l-.305-.305a6.363,6.363,0,0,0,1.627-4.27,6.608,6.608,0,1,0-6.608,6.608,6.363,6.363,0,0,0,4.27-1.627l.305.305v.813l5.083,5.083,1.525-1.525-5.083-5.083Zm-6.1,0a4.575,4.575,0,1,1,4.575-4.575,4.691,4.691,0,0,1-4.575,4.575Z" transform="translate(0.155 0.155)" fill="#fff"/>
+        </g>
+        <g id="Letters" transform="translate(0)">
+          <text id="a" transform="translate(18.573 71.85)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">a</tspan></text>
+          <text id="s" transform="translate(54.727 71.85)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">s</tspan></text>
+          <text id="d" transform="translate(90.024 71.85)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">d</tspan></text>
+          <text id="f" transform="translate(128.286 71.85)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">f</tspan></text>
+          <text id="g" transform="translate(161.732 71.85)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">g</tspan></text>
+          <text id="h" transform="translate(197.684 71.85)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">h</tspan></text>
+          <text id="j" transform="translate(236.994 71.85)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">j</tspan></text>
+          <text id="k" transform="translate(269.851 71.85)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">k</tspan></text>
+          <text id="l" transform="translate(308.642 71.85)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">l</tspan></text>
+          <text id="z" transform="translate(57.747 124.717)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">z</tspan></text>
+          <text id="x" transform="translate(93.33 124.717)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">x</tspan></text>
+          <text id="c" transform="translate(128.602 124.717)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">c</tspan></text>
+          <text id="v" transform="translate(164.623 124.717)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">v</tspan></text>
+          <text id="b" transform="translate(199.349 124.717)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">b</tspan></text>
+          <text id="n" transform="translate(235.036 124.717)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">n</tspan></text>
+          <text id="m" transform="translate(266.988 124.717)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">m</tspan></text>
+          <text id="q" transform="translate(0 20)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">q</tspan></text>
+          <text id="w" transform="translate(37.602 20)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">w</tspan></text>
+          <text id="e" transform="translate(75.665 20)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">e</tspan></text>
+          <text id="r" transform="translate(113.389 20)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">r</tspan></text>
+          <text id="t" transform="translate(149.103 20)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">t</tspan></text>
+          <text id="y" transform="translate(183.048 20)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">y</tspan></text>
+          <text id="u" transform="translate(217.758 20)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">u</tspan></text>
+          <text id="i" transform="translate(256.792 20)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">i</tspan></text>
+          <text id="o" transform="translate(288.712 20)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">o</tspan></text>
+          <text id="p" transform="translate(323.382 20)" fill="#37474f" font-size="22" font-family="Helvetica"><tspan x="0" y="0">p</tspan></text>
+        </g>
+      </g>
+      <g id="Numbers" transform="translate(27 484)" opacity="0.8">
+        <text id="_1" data-name="1" transform="translate(0 9)" fill="#455a64" font-size="10" font-family="Helvetica"><tspan x="0" y="0">1</tspan></text>
+        <text id="_2-2" data-name="2" transform="translate(40.333 9)" fill="#455a64" font-size="10" font-family="Helvetica"><tspan x="0" y="0">2</tspan></text>
+        <text id="_3-2" data-name="3" transform="translate(74.917 9)" fill="#455a64" font-size="10" font-family="Helvetica"><tspan x="0" y="0">3</tspan></text>
+        <text id="_4" data-name="4" transform="translate(109.5 9)" fill="#455a64" font-size="10" font-family="Helvetica"><tspan x="0" y="0">4</tspan></text>
+        <text id="_5" data-name="5" transform="translate(144.083 9)" fill="#455a64" font-size="10" font-family="Helvetica"><tspan x="0" y="0">5</tspan></text>
+        <text id="_6" data-name="6" transform="translate(178.667 9)" fill="#455a64" font-size="10" font-family="Helvetica"><tspan x="0" y="0">6</tspan></text>
+        <text id="_7" data-name="7" transform="translate(213.25 9)" fill="#455a64" font-size="10" font-family="Helvetica"><tspan x="0" y="0">7</tspan></text>
+        <text id="_8" data-name="8" transform="translate(247.833 9)" fill="#455a64" font-size="10" font-family="Helvetica"><tspan x="0" y="0">8</tspan></text>
+        <text id="_9" data-name="9" transform="translate(282.417 9)" fill="#455a64" font-size="10" font-family="Helvetica"><tspan x="0" y="0">9</tspan></text>
+        <text id="_0" data-name="0" transform="translate(317 9)" fill="#455a64" font-size="10" font-family="Helvetica"><tspan x="0" y="0">0</tspan></text>
+      </g>
+    </g>
+    <line id="Line_138" data-name="Line 138" y2="18.408" transform="translate(58.857 164.5)" fill="none" stroke="#0bce86" stroke-width="0.6"/>
+    <path id="Icon-2" data-name="Icon" d="M12.5,5.75,11.75,5l-3,3-3-3L5,5.75l3,3-3,3,.75.75,3-3,3,3,.75-.75-3-3Z" transform="translate(306 166)" opacity="0.54"/>
+  </g>
+</svg>
