@@ -12,6 +12,7 @@ class HomePage extends StatefulWidget {
 class HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
+    SizeConfig.init(context);
     return Scaffold(
       appBar: AppBar(
         backgroundColor: brandGreen,
@@ -42,7 +43,7 @@ class HomePageState extends State<HomePage> {
                 child: TextFormField(
                   style: TextStyle(fontSize: 14.0, color: Colors.black),
                   decoration: InputDecoration(
-                    labelText: "Search “Latest News”",
+                    hintText: "Search “Latest News”",
                     // If  you are using latest version of flutter then lable text and hint text shown like this
                     // if you r using flutter less then 1.20.* then maybe this is not working properly
                     labelStyle: TextStyle(color: Colors.grey),
@@ -78,6 +79,7 @@ class HomePageState extends State<HomePage> {
             children: <Widget>[
               MyList(),
               SizedBox(height: getResponsiveHeight(20)),
+              News(),
               News(),
               News(),
               News()

@@ -1,14 +1,62 @@
-CarouselSlider(
-              height: 180.0,
-              enlargeCenterPage: true,
-              autoPlay: true,
-              aspectRatio: 16 / 9,
-              autoPlayCurve: Curves.fastOutSlowIn,
-              autoPlayAnimationDuration: Duration(milliseconds: 800),
-              viewportFraction: 0.8,
-              items: [
-                Container(
-                  decoration: BoxDecoration(),
-                )
-              ],
-            ),
+import 'package:flutter/material.dart';
+import 'package:newapp/screen/homepage.dart';
+
+class Appbarbottom extends StatefulWidget {
+  @override
+  _AppbarbottomState createState() => _AppbarbottomState();
+}
+
+class _AppbarbottomState extends State<Appbarbottom> {
+  int _currentIndex = 0;
+  var renderedBody;
+  final tabs = [
+    HomePage(),
+  ];
+
+  @override
+  Widget build(BuildContext context) {
+    switch (_currentIndex) {
+      case 0:
+        renderedBody = HomePage();
+        break;
+      default:
+    }
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Bottom navigation example'),
+      ),
+      body: renderedBody,
+      bottomNavigationBar: BottomNavigationBar(
+        currentIndex: _currentIndex,
+        type: BottomNavigationBarType.fixed,
+        items: [
+          BottomNavigationBarItem(
+              icon: Icon(Icons.home),
+              label: 'Home',
+              backgroundColor: Colors.blue),
+          BottomNavigationBarItem(
+              icon: Icon(Icons.home),
+              label: 'Home',
+              backgroundColor: Colors.pink),
+          BottomNavigationBarItem(
+              icon: Icon(Icons.home),
+              label: 'Home',
+              backgroundColor: Colors.yellow),
+          BottomNavigationBarItem(
+              icon: Icon(Icons.home),
+              label: 'Home',
+              backgroundColor: Colors.green),
+          BottomNavigationBarItem(
+              icon: Icon(Icons.home),
+              label: 'Home',
+              backgroundColor: Colors.red),
+        ],
+        onTap: (index) {
+          setState(() {
+            _currentIndex = index;
+          });
+        },
+      ),
+    );
+  }
+}

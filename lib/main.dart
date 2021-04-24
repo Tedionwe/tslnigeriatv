@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
+import 'package:newapp/bottombar/appbarbottom.dart';
 import 'package:newapp/splash/splashpage.dart';
 
 void main() {

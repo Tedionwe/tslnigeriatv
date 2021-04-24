@@ -3,6 +3,7 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:newapp/colors.dart';
 import 'package:newapp/mediaquery.dart';
 import 'package:newapp/model/content_model.dart';
+import 'package:newapp/bottombar/appbarbottom.dart';
 import 'package:newapp/screen/homepage.dart';
 
 class SplashPage extends StatefulWidget {
@@ -119,7 +120,7 @@ class _SplashPageState extends State<SplashPage> {
                           Navigator.pushReplacement(
                             context,
                             MaterialPageRoute(
-                              builder: (_) => HomePage(),
+                              builder: (_) => MainPage(),
                             ),
                           );
                         }
